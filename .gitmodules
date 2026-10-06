@@ -16,3 +16,6 @@
 ; After cloning a fork, materialise the submodule working trees with:
 ;
 ;   git submodule update --init --recursive
+[submodule "submodules/logos-maps"]
+	path = submodules/logos-maps
+	url = https://github.com/anudit/logos-maps.git
