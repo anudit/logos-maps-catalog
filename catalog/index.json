@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "repositoryName": "logos-maps",
-  "generatedAt": "2026-10-06T13:18:24Z",
+  "generatedAt": "2026-10-06T17:25:12Z",
   "packages": [
     {
       "name": "osm_registry",
@@ -119,6 +119,48 @@
     {
       "name": "osm_distribution",
       "versions": [
+        {
+          "releasedAt": "2026-10-06T17:24:32Z",
+          "publisherRef": "osm_distribution-v0.1.3",
+          "url": "https://github.com/anudit/logos-maps-catalog/releases/download/osm_distribution-v0.1.3/osm_distribution-0.1.3.lgx",
+          "size": 23534,
+          "sha256": "5136a9b4f4220dc3319a36d528ebb450d9f133303298e41bc46461752c5fb877",
+          "rootHash": "a66f3c2923aa3acd91dd5ae6a14fa7a860208f6628d44bbcfdf23e1d2973ed4c",
+          "manifest": {
+            "author": "",
+            "category": "data",
+            "dependencies": [
+              {
+                "name": "osm_registry",
+                "version": ">=0.1.2"
+              }
+            ],
+            "description": "Host and download verified OpenStreetMap snapshots",
+            "display_name": "Logos Maps",
+            "hashes": {
+              "assets": "9854ab56c40c586cfe4b322e918b72259fc23e0cdb4c1688f77a1464e3dcf5be",
+              "root": "a66f3c2923aa3acd91dd5ae6a14fa7a860208f6628d44bbcfdf23e1d2973ed4c",
+              "variants": "640304137a65859753769202ac5f95bfb67413ace1280654f54c1960662629bf",
+              "variants/darwin-arm64": "470eca17ecbcd519afa3dfcbb4506c3bef61770542ace16496f736f13c8d7594",
+              "variants/linux-amd64": "470eca17ecbcd519afa3dfcbb4506c3bef61770542ace16496f736f13c8d7594"
+            },
+            "icon": "assets/icon.png",
+            "main": {},
+            "manifestVersion": "0.6.0",
+            "name": "osm_distribution",
+            "type": "ui_qml",
+            "version": "0.1.3",
+            "view": "Main.qml"
+          },
+          "icon": {
+            "path": "519ec59172ccd44b160c7e201dec4593f67e6f6fc61da5b67fef0a470b2fbbf1.png",
+            "sha256": "519ec59172ccd44b160c7e201dec4593f67e6f6fc61da5b67fef0a470b2fbbf1",
+            "size": 8726
+          },
+          "urls": [
+            "https://github.com/anudit/logos-maps-catalog/releases/download/osm_distribution-v0.1.3/osm_distribution-0.1.3.lgx"
+          ]
+        },
         {
           "releasedAt": "2026-10-06T06:13:53Z",
           "publisherRef": "osm_distribution-v0.1.2",
