@@ -22,3 +22,8 @@ commit it, push, and rerun releases. The umbrella explicitly lists both
 nested paths because upstream discovery expects one module per submodule.
 
 This working tree is only a prepared catalog until actual releases succeed.
+
+The release template still publishes the rolling `index` release. A dependent
+workflow mirrors its generated index and icons under `catalog/`, served from
+raw.githubusercontent.com so Basecamp avoids release-asset redirects during
+catalog refresh. LGX download URLs and checksums are unchanged.

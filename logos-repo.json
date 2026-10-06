@@ -4,6 +4,6 @@
   "displayName": "Logos Maps",
   "description": "Verified OpenStreetMap distribution and standalone registry SDK.",
   "homepage": "https://github.com/anudit/logos-maps",
-  "indexUrl": "https://github.com/anudit/logos-maps-catalog/releases/download/index/index.json",
+  "indexUrl": "https://raw.githubusercontent.com/anudit/logos-maps-catalog/main/catalog/index.json",
   "trustedSigners": []
 }

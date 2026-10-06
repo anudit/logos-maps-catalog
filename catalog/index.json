@@ -1,0 +1,292 @@
+{
+  "schemaVersion": 2,
+  "repositoryName": "logos-maps",
+  "generatedAt": "2026-10-06T06:16:38Z",
+  "packages": [
+    {
+      "name": "osm_registry",
+      "versions": [
+        {
+          "releasedAt": "2026-10-06T06:16:05Z",
+          "publisherRef": "osm_registry-v0.1.2",
+          "url": "https://github.com/anudit/logos-maps-catalog/releases/download/osm_registry-v0.1.2/osm_registry-0.1.2.lgx",
+          "size": 8020981,
+          "sha256": "a99ad79d9cc338e02b06123a5dbf92733e4358b2cd9502b28f21a556072fb184",
+          "rootHash": "cfd47b2fa638c7af4a4961171ec5be4df717ec72c95cde7c20135196016eccd3",
+          "manifest": {
+            "author": "",
+            "category": "data",
+            "dependencies": [
+              "storage_module"
+            ],
+            "description": "Discover, resolve and distribute verified OSM snapshots",
+            "display_name": "OSM Registry SDK",
+            "hashes": {
+              "assets": "6ee0a5123b091b160fe2fe171ae884f56702a3308b99dc0745a377b1174489eb",
+              "root": "cfd47b2fa638c7af4a4961171ec5be4df717ec72c95cde7c20135196016eccd3",
+              "variants": "bdd64b77ac32ac935f3c293283df24853d45ba71e747fe82d573f96fa0814707",
+              "variants/darwin-arm64": "e3fea5453365fdc4d5235ba66b203ffcee51e4d103c4c84d915818bbf4752c4e",
+              "variants/linux-amd64": "faf17ca84fd007f528f2c7d7e7589cd4dacfa12a0f2e818d3397c0205b4e3317"
+            },
+            "icon": "",
+            "main": {
+              "darwin-arm64": "osm_registry_plugin.dylib",
+              "linux-amd64": "osm_registry_plugin.so"
+            },
+            "manifestVersion": "0.6.0",
+            "name": "osm_registry",
+            "type": "core",
+            "version": "0.1.2"
+          },
+          "urls": [
+            "https://github.com/anudit/logos-maps-catalog/releases/download/osm_registry-v0.1.2/osm_registry-0.1.2.lgx"
+          ]
+        },
+        {
+          "releasedAt": "2026-10-06T06:06:55Z",
+          "publisherRef": "osm_registry-v0.1.1",
+          "url": "https://github.com/anudit/logos-maps-catalog/releases/download/osm_registry-v0.1.1/osm_registry-0.1.1.lgx",
+          "size": 7989822,
+          "sha256": "aa8f674156d317e20277a73975368a143f52335b9bdec8990ee7262ccd5052b2",
+          "rootHash": "0a2eb608e41e4435bcccbff80bf8a7b2948be4e580903a9a29348a18b44c7175",
+          "manifest": {
+            "author": "",
+            "category": "data",
+            "dependencies": [
+              "storage_module"
+            ],
+            "description": "Discover, resolve and distribute verified OSM snapshots",
+            "display_name": "OSM Registry SDK",
+            "hashes": {
+              "assets": "3b527ee985500b9e492664a769f551621d773a2d126aead0ba75d32841cf0626",
+              "root": "0a2eb608e41e4435bcccbff80bf8a7b2948be4e580903a9a29348a18b44c7175",
+              "variants": "96adb13343ade2313c0f8252dc9b9e20b03516ac5cc209d3efd7497a652f650a",
+              "variants/darwin-arm64": "523b86c9dc7002cad1fbae3913ef83b0651ea6ec387ab8defcac44ea1738566d",
+              "variants/linux-amd64": "29e1627decfed398721effaaf523da074bccfc823dd5f420c2855d2647b29b7b"
+            },
+            "icon": "",
+            "main": {
+              "darwin-arm64": "osm_registry_plugin.dylib",
+              "linux-amd64": "osm_registry_plugin.so"
+            },
+            "manifestVersion": "0.6.0",
+            "name": "osm_registry",
+            "type": "core",
+            "version": "0.1.1"
+          },
+          "urls": [
+            "https://github.com/anudit/logos-maps-catalog/releases/download/osm_registry-v0.1.1/osm_registry-0.1.1.lgx"
+          ]
+        },
+        {
+          "releasedAt": "2026-10-06T05:57:48Z",
+          "publisherRef": "osm_registry-v0.1.0",
+          "url": "https://github.com/anudit/logos-maps-catalog/releases/download/osm_registry-v0.1.0/osm_registry-0.1.0.lgx",
+          "size": 7976244,
+          "sha256": "0113c3526fd7d048b8caad908b50b3e738ece77a92015cb5dff9eae1fafc6453",
+          "rootHash": "b1a68ac98a1c304874cfcc741151e1e35e664ced727512429e0ca46608708fb8",
+          "manifest": {
+            "author": "",
+            "category": "data",
+            "dependencies": [
+              "storage_module"
+            ],
+            "description": "Discover, resolve and distribute verified OSM snapshots",
+            "display_name": "OSM Registry SDK",
+            "hashes": {
+              "assets": "4cb088b2f8a32d7618100417ee1e67c52734374f92483f84bbc255aa73e21c2f",
+              "root": "b1a68ac98a1c304874cfcc741151e1e35e664ced727512429e0ca46608708fb8",
+              "variants": "5fa6657a16ef091305cde6d28a3c82e61587ce98379d0637696269c07be2bdc8",
+              "variants/darwin-arm64": "d8133f9073bf1ddf7f0c1b3002f751b3777bd99db9299e0d13b9d38668f1a9c4",
+              "variants/linux-amd64": "e413457ade985d17707817370d32daf0d062cbbc8676b114d41b051ca987eb89"
+            },
+            "icon": "",
+            "main": {
+              "darwin-arm64": "osm_registry_plugin.dylib",
+              "linux-amd64": "osm_registry_plugin.so"
+            },
+            "manifestVersion": "0.6.0",
+            "name": "osm_registry",
+            "type": "core",
+            "version": "0.1.0"
+          },
+          "urls": [
+            "https://github.com/anudit/logos-maps-catalog/releases/download/osm_registry-v0.1.0/osm_registry-0.1.0.lgx"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "osm_distribution",
+      "versions": [
+        {
+          "releasedAt": "2026-10-06T06:13:53Z",
+          "publisherRef": "osm_distribution-v0.1.2",
+          "url": "https://github.com/anudit/logos-maps-catalog/releases/download/osm_distribution-v0.1.2/osm_distribution-0.1.2.lgx",
+          "size": 14334,
+          "sha256": "0db6a27d65ea0911feddcd1b5bfc16bbfe231d19f87aa54e8450960bfa2dae1d",
+          "rootHash": "92a1ccbdff52ca1f882108b286bffe57ab81cc2c3b34df4edeb569160b3656ba",
+          "manifest": {
+            "author": "",
+            "category": "data",
+            "dependencies": [
+              {
+                "name": "osm_registry",
+                "version": ">=0.1.2"
+              }
+            ],
+            "description": "Host and download verified OpenStreetMap snapshots",
+            "display_name": "Logos Maps",
+            "hashes": {
+              "assets": "9854ab56c40c586cfe4b322e918b72259fc23e0cdb4c1688f77a1464e3dcf5be",
+              "root": "92a1ccbdff52ca1f882108b286bffe57ab81cc2c3b34df4edeb569160b3656ba",
+              "variants": "1b3538b9f144a9c2329958502dda3dd16701753100198c8a264c2fbd9177b03d",
+              "variants/darwin-arm64": "386ff667feedc5163803df6b48f2240c376f43f108bcaba4302e65305680ed19",
+              "variants/linux-amd64": "386ff667feedc5163803df6b48f2240c376f43f108bcaba4302e65305680ed19"
+            },
+            "icon": "assets/icon.png",
+            "main": {},
+            "manifestVersion": "0.6.0",
+            "name": "osm_distribution",
+            "type": "ui_qml",
+            "version": "0.1.2",
+            "view": "Main.qml"
+          },
+          "icon": {
+            "path": "519ec59172ccd44b160c7e201dec4593f67e6f6fc61da5b67fef0a470b2fbbf1.png",
+            "sha256": "519ec59172ccd44b160c7e201dec4593f67e6f6fc61da5b67fef0a470b2fbbf1",
+            "size": 8726
+          },
+          "urls": [
+            "https://github.com/anudit/logos-maps-catalog/releases/download/osm_distribution-v0.1.2/osm_distribution-0.1.2.lgx"
+          ]
+        },
+        {
+          "releasedAt": "2026-10-06T06:06:45Z",
+          "publisherRef": "osm_distribution-v0.1.1",
+          "url": "https://github.com/anudit/logos-maps-catalog/releases/download/osm_distribution-v0.1.1/osm_distribution-0.1.1.lgx",
+          "size": 13511,
+          "sha256": "659369930e6339c89dda24270b562bd4f539f4e0032f776ac2022bdf062d4ffd",
+          "rootHash": "aa7277eb97900be93ad597aedd8a7de2baac397b7cfe6e4ebed07f0948aa5205",
+          "manifest": {
+            "author": "",
+            "category": "data",
+            "dependencies": [
+              {
+                "name": "osm_registry",
+                "version": ">=0.1.1"
+              }
+            ],
+            "description": "Host and download verified OpenStreetMap snapshots",
+            "display_name": "Logos Maps",
+            "hashes": {
+              "assets": "62a714dcd63d3a13744d61574f694e16c0390edd92601afdc0ba4d9945127d6c",
+              "root": "aa7277eb97900be93ad597aedd8a7de2baac397b7cfe6e4ebed07f0948aa5205",
+              "variants": "709a4c78233c590dd4e06fa4d6b8bc074673f5d382a32eac84fdb8c7b172c053",
+              "variants/darwin-arm64": "a4457def00d403198101c3bca12c0a3439190e4875bef5c8fe1e61f50dcb2a7c",
+              "variants/linux-amd64": "a4457def00d403198101c3bca12c0a3439190e4875bef5c8fe1e61f50dcb2a7c"
+            },
+            "icon": "assets/icon.png",
+            "main": {},
+            "manifestVersion": "0.6.0",
+            "name": "osm_distribution",
+            "type": "ui_qml",
+            "version": "0.1.1",
+            "view": "Main.qml"
+          },
+          "icon": {
+            "path": "519ec59172ccd44b160c7e201dec4593f67e6f6fc61da5b67fef0a470b2fbbf1.png",
+            "sha256": "519ec59172ccd44b160c7e201dec4593f67e6f6fc61da5b67fef0a470b2fbbf1",
+            "size": 8726
+          },
+          "urls": [
+            "https://github.com/anudit/logos-maps-catalog/releases/download/osm_distribution-v0.1.1/osm_distribution-0.1.1.lgx"
+          ]
+        },
+        {
+          "releasedAt": "2026-10-06T05:57:09Z",
+          "publisherRef": "osm_distribution-v0.1.0",
+          "url": "https://github.com/anudit/logos-maps-catalog/releases/download/osm_distribution-v0.1.0/osm_distribution-0.1.0.lgx",
+          "size": 13495,
+          "sha256": "82ad535c84c4f3af780fcb6f8959798f66f180f0173308a8c29f703e43b9eddf",
+          "rootHash": "0deb8f02d3ac63ba35ab2671b7d09057f8013f7f267e13525bca14f45b5bc1cf",
+          "manifest": {
+            "author": "",
+            "category": "data",
+            "dependencies": [
+              "osm_registry"
+            ],
+            "description": "Host and download verified OpenStreetMap snapshots",
+            "display_name": "Logos Maps",
+            "hashes": {
+              "assets": "6a825f0f6a564ac66733e0ac949a47504b985b7ae7b5998c7de51181d3be450a",
+              "root": "0deb8f02d3ac63ba35ab2671b7d09057f8013f7f267e13525bca14f45b5bc1cf",
+              "variants": "494d66a15940d712e6d8603b386dd26c5b585e82a023c2d9e3ec49d9ab8c3005",
+              "variants/darwin-arm64": "74444a8adbc8a09261819beeba3fa371b55c504aab52378335b403cb66b4ecb4",
+              "variants/linux-amd64": "74444a8adbc8a09261819beeba3fa371b55c504aab52378335b403cb66b4ecb4"
+            },
+            "icon": "assets/icon.png",
+            "main": {},
+            "manifestVersion": "0.6.0",
+            "name": "osm_distribution",
+            "type": "ui_qml",
+            "version": "0.1.0",
+            "view": "Main.qml"
+          },
+          "icon": {
+            "path": "519ec59172ccd44b160c7e201dec4593f67e6f6fc61da5b67fef0a470b2fbbf1.png",
+            "sha256": "519ec59172ccd44b160c7e201dec4593f67e6f6fc61da5b67fef0a470b2fbbf1",
+            "size": 8726
+          },
+          "urls": [
+            "https://github.com/anudit/logos-maps-catalog/releases/download/osm_distribution-v0.1.0/osm_distribution-0.1.0.lgx"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "osm_consumer_example",
+      "versions": [
+        {
+          "releasedAt": "2026-10-06T06:15:05Z",
+          "publisherRef": "osm_consumer_example-v0.1.0",
+          "url": "https://github.com/anudit/logos-maps-catalog/releases/download/osm_consumer_example-v0.1.0/osm_consumer_example-0.1.0.lgx",
+          "size": 10765,
+          "sha256": "9a740720792ae34c10fc92a79e4ef7dc7379be8333b2ae6d3b7d9c8c32fa0832",
+          "rootHash": "5cf45cb23cffd7b79e0b3479a5c078d5607fd2a94db01be81af56ff8b0f1a945",
+          "manifest": {
+            "author": "",
+            "category": "example",
+            "dependencies": [
+              "osm_registry"
+            ],
+            "description": "Resolve registry metadata without the distribution app",
+            "display_name": "OSM SDK Consumer Example",
+            "hashes": {
+              "assets": "9854ab56c40c586cfe4b322e918b72259fc23e0cdb4c1688f77a1464e3dcf5be",
+              "root": "5cf45cb23cffd7b79e0b3479a5c078d5607fd2a94db01be81af56ff8b0f1a945",
+              "variants": "31fc9b105520e79fdfb88554ee1bab2baa60a261b068eaa676bea4c6fe3187eb",
+              "variants/darwin-arm64": "004532ccc1d90669c5039b32bf44aa29ac2434fba5573763bc1e3ba6988a8adc",
+              "variants/linux-amd64": "004532ccc1d90669c5039b32bf44aa29ac2434fba5573763bc1e3ba6988a8adc"
+            },
+            "icon": "assets/icon.png",
+            "main": {},
+            "manifestVersion": "0.6.0",
+            "name": "osm_consumer_example",
+            "type": "ui_qml",
+            "version": "0.1.0",
+            "view": "Main.qml"
+          },
+          "icon": {
+            "path": "519ec59172ccd44b160c7e201dec4593f67e6f6fc61da5b67fef0a470b2fbbf1.png",
+            "sha256": "519ec59172ccd44b160c7e201dec4593f67e6f6fc61da5b67fef0a470b2fbbf1",
+            "size": 8726
+          },
+          "urls": [
+            "https://github.com/anudit/logos-maps-catalog/releases/download/osm_consumer_example-v0.1.0/osm_consumer_example-0.1.0.lgx"
+          ]
+        }
+      ]
+    }
+  ]
+}
